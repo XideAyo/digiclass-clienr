@@ -39,7 +39,7 @@ const RegisterPage = () => {
         }else{
             console.log(name, email,  password)
             dispatch(register(name, email, password))
-            navigate('/')
+            navigate('/mynotes')
         }
     }
 
