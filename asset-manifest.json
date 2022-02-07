@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/digiclass-client/static/css/main.78320124.css",
+    "main.js": "/digiclass-client/static/js/main.49bea64d.js",
+    "static/media/marten-bjork-rH8O0FHFpfw-unsplash.jpg": "/digiclass-client/static/media/marten-bjork-rH8O0FHFpfw-unsplash.79c19c99529ddca5e4cb.jpg",
+    "index.html": "/digiclass-client/index.html",
+    "main.78320124.css.map": "/digiclass-client/static/css/main.78320124.css.map",
+    "main.49bea64d.js.map": "/digiclass-client/static/js/main.49bea64d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.78320124.css",
+    "static/js/main.49bea64d.js"
+  ]
+}
